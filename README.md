@@ -4,11 +4,8 @@ Hi Chrome Plugin Users,<br>
 <br>
 # 最新消息
 Hi Chrome Users,<br>
-版本更新：海豚畅游更新2.6.8，穿越更新2.4.2，适配最新V2防盗服务器。<br>
-请穿越和海豚用户最快升级到最新版本！新版服务器V2特性如下：<br>
-1.更快，更安全，720P-1080P。<br>
-2.服务器防滥用，保护付费用户权益。<br>
-3.插件新版本更适配服务器，轻松验证。<br>
+发布海豚畅游3.0.1测试版本，升级到该版本，请重新登陆，或者删除后重新安装。<br>
+<b>下载地址：https://github.com/ayooay/glbproxy/releases</b><br>
 
 Message from Twitter:https://twitter.com/AyooBull<br>
 
