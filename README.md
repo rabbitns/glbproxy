@@ -4,7 +4,8 @@ Hi Chrome Plugin Users,<br>
 <br>
 # 最新消息
 Hi Chrome Users,<br>
-发布海豚畅游3.0.2测试版本，升级到该版本，请重新登陆，或者删除后重新安装。<br>
+老用户重要：2016.11.22发布海豚畅游2  3.0+新版无法使用问题如何解决？<br>
+请删除老版本重新下载crx文件重新安装即可解决问题。不能覆盖和自动升级<br>
 <b>下载地址：https://github.com/ayooay/glbproxy/releases</b><br>
 
 Message from Twitter:https://twitter.com/AyooBull<br>
