@@ -1,10 +1,10 @@
 # 修复教程
-新版本如果未登录使用过，修复不可用，新版本同步VPN暂时停用。
+如果无法登陆，可以下载release中的新版本试试，如果也不行，请发送客服邮件“无法登陆，需要修复一下”。
 <br>
 # 最新消息
 Hi Chrome Users,<br>
-老用户重要：2016.11.22发布海豚畅游2，穿越2。3.0+新版无法使用问题如何解决？<br>
-请删除老版本重新下载crx文件重新安装即可解决问题。不能覆盖和自动升级<br>
+We published desktop version for windows.
+
 <b>下载地址：https://github.com/ayooay/glbproxy/releases</b><br>
 
 Message from Twitter:https://twitter.com/AyooBull<br>
