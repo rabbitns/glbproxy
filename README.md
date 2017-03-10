@@ -1,6 +1,6 @@
 # 最新消息
 Hi Chrome Users,<br>
-We published crx 3.1.0, update to it is needed.
+We published crx 3.1.1, update to it is needed. And chrome 57,58 are available now !
 <b>下载地址：https://github.com/ayooay/glbproxy/releases</b><br>
 
 Message from Twitter:https://twitter.com/AyooBull<br>
