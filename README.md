@@ -1,7 +1,7 @@
 # 最新消息
 Hi Chrome Users,<br>
 We published chrome crx 3.1.3, update to it is needed. And chrome 57,58 are available now !<br>
-2017-6-1月左右将完成，Chrome,Windows,Mac,IOS,Android全平台使用。
+2017-6-1月左右将完成，Chrome,Windows,Mac,IOS,Android全平台使用。<hr>
 <b>下载地址：https://github.com/ayooay/glbproxy/releases</b><br>
 
 Message from Twitter:https://twitter.com/AyooBull<br>
