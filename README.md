@@ -1,6 +1,6 @@
 # News
 Hi Chrome Users,<br>
-We published chrome crx 3.2.2, update to it is needed. And chrome 57,58+ are available now !<br>
+We published chrome crx 3.2.3, update to it is needed. And chrome 57,58+ are available now !<br>
 Chrome,  Support SS for Windows,Mac,IOS,Android<hr>
 <b>下载地址：https://github.com/ayooay/glbproxy/releases</b><br>
 
@@ -9,7 +9,7 @@ Message from Twitter:https://twitter.com/AyooBull<br>
 # Global Proxy Online
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
-Latest version Dolphin V3.2.2, Ecross V3.2.2, Android V4.1.1, Youss.vip Vpn for Mobile.
+Latest version Dolphin V3.2.3, Ecross V3.2.3, Android V4.1.1, Youss.vip Vpn for Mobile.
 
 For Worldwide: http://glbproxy.online <br>
 
